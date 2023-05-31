@@ -5,7 +5,7 @@
 Autor: Agustín Villarreal
 
 Fecha: Mayo 2023
-por agustin
+
 * La hibiridez, abarca la posiblidad de reconfigurar el medio y al mismo tiempo la interaccion con el mismo.
 
 ![Persona y perro ficticio"](https://github.com/agusv2023/PEC3_Manovich_Reloaded/blob/main/hybrid.png?raw=true "Persona y perro ficticio")
