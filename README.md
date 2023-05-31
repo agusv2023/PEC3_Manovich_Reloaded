@@ -34,8 +34,8 @@ Isadora es una aplicación para el diseño y la creación de proyectos multimedi
 Fue creado por el artista y programador Mark Coniglio que junto al grupo multimedia de teatro y danza Troika Ranch ha desarrollado una plataforma extremadamente flexible e intuitiva. Isadora nos permite combinar múltiples medios que describiré a continuación.
 Además, Isadora permite sumar software y hardware externos, lo que nos da la posibilidad de integrar datos en tiempo real.
 
-###¿Qué medios incorpora Isadora?
-
+### ¿Qué medios incorpora Isadora?
+ 
 * Generadores visuales en tiempo real: Isadora permite cambiar la mayoría de los valores de entrada en tiempo real, lo que permite una variedad infinita de posibilidades de diseño que reaccionan a los datos de los artistas, los espectadores, los algoritmos generativos o el propio operador.
 * Imágenes: Puedes importar imágenes en formatos populares como JPEG, PNG y GIF.
 * Videos: Isadora admite la importación y reproducción de videos en diferentes formatos.
@@ -73,16 +73,16 @@ Life Is Strange es video juego de aventuras gráficas jugadas desde una vista en
 
 >"Life is Strange" cuenta con gráficos en estilo artístico y cinematográfico, con una estética distintiva y una banda sonora destacada. El juego está disponible en diversas plataformas, incluyendo consolas de videojuegos y ordenadores personales.
 
-###¿Qué medios incorpora “Life is Strange”?
+### ¿Qué medios incorpora “Life is Strange”?
 
-* Narrativa estilo cine : Se experimenta una historia mediante escenas cinematográficas, diálogos.
+* **  Narrativa estilo cine :** Se experimenta una historia mediante escenas cinematográficas, diálogos.
 * Videojuego: no deja de ser un video juego.Por los que un video juego sería considerado parte de los “Nuevos medios” Los jugadores interactúan con el juego a través de la jugabilidad.
 * Música: Como muchos de los juegos encontramos música que ambienta la dinámica del juego.
 * Guión: Existe una interacción entre los distintos personajes mediante un guión que puede variar según las decisiones del jugador. A diferencia 
 Elementos visuales: elementos desarrollador por ordenador, gráficos, piezas de código, imágenes.
 
 
-###¿Qué tipo de hibridación se puede identificar en este caso?
+### ¿Qué tipo de hibridación se puede identificar en este caso?
 
 * Esta obra o videojuego justamente se destaca en la hibridación del medio narrativo cinematográfico, con la interacción que la persona detrás del mando (Joystick). Creando una hibridez muy común en los juegos de narrativa, simplemente en cada obra tendremos un híbrido distinto ya que estos son prácticamente únicos. 
 * La narrativa también se hibrida con la vida de los seres humanos, entonces podremos entender que este híbrido está suficientemente bien diseñado captará nuestra atención. Ya que la historia que se cuenta puede coincidir con la realidad en ciertos aspectos.
