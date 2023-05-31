@@ -8,7 +8,7 @@ Fecha: Mayo 2023
 por agustin
 * La hibiridez, abarca la posiblidad de reconfigurar el medio y al mismo tiempo la interaccion con el mismo.
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://github.com/agusv2023/PEC3_Manovich_Reloaded/blob/main/hybrid.png?raw=true)) 
 
 
 
