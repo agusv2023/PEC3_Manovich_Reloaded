@@ -75,7 +75,7 @@ Life Is Strange es video juego de aventuras gráficas jugadas desde una vista en
 
 ### ¿Qué medios incorpora “Life is Strange”?
 
-* **  Narrativa estilo cine :** Se experimenta una historia mediante escenas cinematográficas, diálogos.
+* **Narrativa estilo cine :** Se experimenta una historia mediante escenas cinematográficas, diálogos.
 * Videojuego: no deja de ser un video juego.Por los que un video juego sería considerado parte de los “Nuevos medios” Los jugadores interactúan con el juego a través de la jugabilidad.
 * Música: Como muchos de los juegos encontramos música que ambienta la dinámica del juego.
 * Guión: Existe una interacción entre los distintos personajes mediante un guión que puede variar según las decisiones del jugador. A diferencia 
