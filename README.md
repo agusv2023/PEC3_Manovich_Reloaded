@@ -18,9 +18,11 @@ En esta PEC vamos a hablar sobre el proceso de hibridación en dos casos : Isado
 Pero para empezar... ¿Qué es la hibridación?
 
 La hibridación es el mecanismo para la creación de nuevos medios, estos medios tendrán un valor propio y se encontraron en nuevo único elemento. Distintos factores convergen en el ámbito digital, estos factores incluyen a la multimedia así como imágenes, video, sonido, narrativa sumados a la tecnología que nos permite interactuar con el medio y así mismo la interactividad de los humanos. Estos elementos pueden crear una fusión que según Lev Manovich se denomina hibridación. 
-“Este mecanismo es la hibridación. Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones. (Manovich, 2013)”
+>“Este mecanismo es la hibridación. Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones. (Manovich, 2013)”
+
 Para poder entender bien la hibridación, tenemos que dejar clara su diferencia con el concepto de multimedia: 
-“A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos (Lev Manovich 2013)”
+
+>“A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos (Lev Manovich 2013)”
 
 
 
