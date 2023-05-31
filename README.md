@@ -37,12 +37,12 @@ Además, Isadora permite sumar software y hardware externos, lo que nos da la po
 ¿Qué medios incorpora Isadora?
 
 * Generadores visuales en tiempo real: Isadora permite cambiar la mayoría de los valores de entrada en tiempo real, lo que permite una variedad infinita de posibilidades de diseño que reaccionan a los datos de los artistas, los espectadores, los algoritmos generativos o el propio operador.
-Imágenes: Puedes importar imágenes en formatos populares como JPEG, PNG y GIF.
+* Imágenes: Puedes importar imágenes en formatos populares como JPEG, PNG y GIF.
 * Videos: Isadora admite la importación y reproducción de videos en diferentes formatos.
 * Sonidos y música: Puedes cargar archivos de audio en formatos comunes como WAV, MP3 y AIFF en Isadora.
 * Texto: Isadora te permite trabajar con texto para mostrar información, títulos o mensajes en tus composiciones. Puedes definir fuentes, estilos y animaciones para el texto, y también interactuar con él en tiempo real.
-* 
-¿Qué tipo de hibridación se puede identificar en este caso?
+
+#### ¿Qué tipo de hibridación se puede identificar en este caso?
 
 * La hibridación del medio se puede generar mediante archivos que se cargan desde el mismo ordenador estos mismo se pueden hibridar con medios externos como el sonido que nos trae un micrófono o imágenes que son proyectadas por un proyector, estos medios interactúan en nuestra interfaz, donde se pueden separar por escenarios y ser editados en tiempo real en un formato multimedia todo ellos luego convergen y se guardan en un archivo de formato .izz donde otro artista cargará este parche para luego crear nuevas combinaciones, nuevas hibridaciones que finalizan en nueva unica obra.
 
